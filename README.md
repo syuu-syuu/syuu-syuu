@@ -19,5 +19,5 @@ I am a full-stack software engineer with experience in data engineering and anal
 <img width="1112" alt="image" src="https://github.com/user-attachments/assets/adbd1271-3080-4468-af2b-ae8eca9f6ee2">
 
 
-#📫 Contact
+# 📫 Contact
 Reach me at *lizzyzhou28@gmail.com*
