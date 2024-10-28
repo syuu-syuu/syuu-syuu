@@ -4,7 +4,7 @@ I am a full-stack software engineer with experience in data engineering and anal
 
 # 🌱 Current Projects
 ### AutoCAL Dashboard
-***A Data management and KPI calculation dashboard for Carolina Solar Services****
+***A Data management and KPI calculation dashboard for Carolina Solar Services***
 
 
 # 🪴 Past Projects
