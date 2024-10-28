@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi, I'm Lizzy 👋
 
-<!--
-**syuu-syuu/syuu-syuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a full-stack software engineer with experience in data engineering and analysis, mobile, fintech, and web development. I'm a recent Information Science graduate from UNC Chapel Hill and I am actively seeking for SDE job opportunities in Canada.
 
-Here are some ideas to get you started:
+#### 🌱 Current Projects
+-  **Data Management and KPI Calculation Dashboard for Carolina Solar Services**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+#### 🪴 Previous Projects
+- **Task Tide**
+*A full-stack task management application with multi-tiered task levels designed for both individuals and teams*
+<img width="856" alt="image" src="https://github.com/user-attachments/assets/1a21a8de-a95d-48a8-beef-d57102322874">
+
+- **[Big Bucks](https://bigbucks.onrender.com/)**
+*A full-stack Flask application for stock trading and asset analysis*
+  <img width="1112" alt="image" src="https://github.com/user-attachments/assets/adbd1271-3080-4468-af2b-ae8eca9f6ee2">
+
+
+#### 📫 Contact
+**How to reach me:** lizzyzhou28@gmail.com
+
