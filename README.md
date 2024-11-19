@@ -6,8 +6,7 @@ I am a full-stack software engineer with experience in data engineering and anal
 ### AutoCAL Dashboard
 ***A Data management and KPI calculation dashboard for Carolina Solar Services***
 
-<img width="1348" alt="Screenshot 2024-11-19 at 16 41 41" src="https://github.com/user-attachments/assets/840722e6-f246-4243-8190-b98a58f1c62e">
-
+<img width="1348" alt="Screenshot 2024-11-19 at 16 41 41" src="https://github.com/user-attachments/assets/3437a225-2bf2-4787-9ee0-f6d5b1b1f51f">
 
 
 # 🪴 Past Projects
