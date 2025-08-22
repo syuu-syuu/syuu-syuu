@@ -69,4 +69,4 @@ Unlike most tools that focus on syncing Notion with other platforms, this soluti
 
 
 # 📫 Contact
-Reach me at *lizzyzhou28@gmail.com*
+Reach me at *lizisshortforlizard@gmail.com*
