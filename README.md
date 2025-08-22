@@ -67,6 +67,7 @@ Unlike most tools that focus on syncing Notion with other platforms, this soluti
 <br>
 <img width="1112" alt="image" src="https://github.com/user-attachments/assets/adbd1271-3080-4468-af2b-ae8eca9f6ee2">
 
-<br>
+<br><br>
+
 # 📫 Contact
 Reach me at *lizisshortforlizard@gmail.com*
