@@ -9,7 +9,7 @@ I am a full-stack software engineer with experience in data engineering and anal
 |-----------------------|--------------|
 | **Frontend**          | React (TypeScript), Vite, Tailwind CSS, React Router, @dnd-kit |
 | **Backend**           | Django, Django REST Framework |
-| **Database & Storage**| MongoDB, SQLite, Redis |
+| **Database & Storage**| MongoDB, Redis |
 | **Data Processing**   | Pandas, NumPy, OpenPyXL, XlsxWriter |
 | **Infrastructure**    | Docker, Docker Compose, Nginx, Gunicorn |
 | **Deployment**        | Fly.io (backend), Vercel (frontend) |
