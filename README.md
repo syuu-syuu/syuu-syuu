@@ -4,8 +4,8 @@ I am a full-stack software engineer with experience in data engineering and anal
 
 # 🌱 Current Projects
 ### SyncIt
-***A Notion-to-Excel export tool that provides customized, multi-tab spreadsheets with reusable templates.***
-Most existing tools focus on syncing Notion with other platforms, but fall short when it comes to exports to Excel. This app will be ideal for Notion-heavy users who still rely on Excel for reporting and archiving.
+***A Notion-to-Excel export tool that generates customized, multi-tab spreadsheets with reusable templates.***
+Unlike most tools that focus on syncing Notion with other platforms, this solution emphasizes feature-rich Excel exports and is ideal for Notion-heavy users who still depend on Excel for reporting and archiving.
 ![IMG_5658](https://github.com/user-attachments/assets/f438a7e7-c508-4f60-abc1-1ee534eba61f)
 <br><br>
 
