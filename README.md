@@ -11,7 +11,7 @@ I am a full-stack software engineer with experience in data engineering and anal
 | **Backend**           | Django, Django REST Framework |
 | **Database & Storage**| MongoDB, Redis |
 | **Data Processing**   | Pandas, NumPy, OpenPyXL, XlsxWriter |
-| **Infrastructure**    | Docker, Docker Compose, Nginx, Gunicorn |
+| **Infrastructure**    | Docker, Nginx, Gunicorn |
 | **Deployment**        | Fly.io (backend), Vercel (frontend) |
 | **External APIs**     | Notion API (OAuth 2.0, Database/Page/Search APIs) |
 | **Testing**           | Pytest, Playwright |
